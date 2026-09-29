@@ -1,17 +1,17 @@
 {
-  "versionCode": 41,
-  "versionName": "0.314.0",
-  "publishedAt": "2026-09-15T12:51:55+00:00",
-  "notes": "SunSea Player 0.314.0",
+  "versionCode": 42,
+  "versionName": "0.315.0",
+  "publishedAt": "2026-09-29T07:44:16+00:00",
+  "notes": "SunSea Player 0.315.0",
   "apks": {
     "arm64-v8a": {
       "url": "https://raw.githubusercontent.com/matjazklancnik/sunseaplayer_update/main/sunseaplayer-arm64-v8a.apk",
-      "sha256": "09d5c4a49041dfa390da80abf02a0054a81cf584e487db2ef2e4ba9b310f35f8",
+      "sha256": "611b4040d60521b62bc5e09587da82c72354ac56fe137deddc325e81723c140c",
       "sizeBytes": 80963861
     },
     "armeabi-v7a": {
       "url": "https://raw.githubusercontent.com/matjazklancnik/sunseaplayer_update/main/sunseaplayer-armeabi-v7a.apk",
-      "sha256": "5c8a747616f880b4feb74e7628aa7b178160aff60ae9b7f30c58683f9b5cca7c",
+      "sha256": "d68b4d8992cbc8a1741f55bd8d7dddb582ab35543fc674a6c21d9890c3026ccf",
       "sizeBytes": 74291491
     }
   }
